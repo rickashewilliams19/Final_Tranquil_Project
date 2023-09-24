@@ -1,5 +1,7 @@
 # Project Title: CSV to PostgreSQL ETL (Extract, Transform, Load) Automation
 
+![1_7AOhGDnRL2eyJMUidCHZEA](https://github.com/rickashewilliams19/PostgreSQL-Data-Ingestion-from-CSV/assets/88403017/894b38b8-96af-4aa3-8a63-e4d94b69ed26)
+
 Introduction:
 
 This project is designed to automate the process of extracting data from CSV (Comma-Separated Values) files, transforming and cleaning that data, and then loading it into a PostgreSQL database. ETL is a fundamental process in data engineering and analysis, and this project streamlines these essential steps.
